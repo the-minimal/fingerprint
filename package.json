@@ -1,7 +1,7 @@
 {
   "name": "@the-minimal/fingerprint",
   "type": "module",
-  "version": "0.1.3",
+  "version": "0.0.0",
   "license": "MIT",
   "author": "Miroslav Vršecký <yamiteru@icloud.com>",
   "description": "Minimal cross-environment fingerprinting TypeScript library",
