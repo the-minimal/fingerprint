@@ -1,4 +1,4 @@
-Minimal cross-environment fingerprinting TypeScript library.
+![Fingerprint image](https://github.com/the-minimal/fingerprint/blob/main/docs/the-minimal-fingerprint.jpg?raw=true)
 
 # Install
 
